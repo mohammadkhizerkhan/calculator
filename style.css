@@ -1,0 +1,49 @@
+
+.header-style
+{
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    background-color: #f0ae34;
+}
+
+.container{
+    padding: 20px;
+}
+
+
+.inputs{
+    display: flex;
+    justify-content: center;
+}
+
+.label{
+    margin-left:5px;
+}
+.btn
+{
+    display: inline;
+    background-color: #575856;
+    border: none;padding: 20px;
+    cursor: pointer;
+    width: 100%;
+    border: 1px solid rgb(240, 73, 87);
+    border-radius: 6px;
+    margin: 5px;
+    color: white;
+    font-size: x-large;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f24cb2;
+    text-align: center;
+ }
+ textarea{
+     padding: 20px;
+     width: 100%;
+     padding-bottom: 70px;
+ }
